@@ -5,5 +5,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 ## 📊 Progress
 
 - [x] Day 001 - What is Linux
-- [ ] Day 002 - Linux Filesystem Structure
-- [ ] Day 003 - Coming soon...
+- [x] Day 002 - Linux Filesystem Structure
+- [ ] Day 003 - pwd Command
+- [ ] Day 004 - ls Command
