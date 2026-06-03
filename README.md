@@ -6,5 +6,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 
 - [x] Day 001 - What is Linux
 - [x] Day 002 - Linux Filesystem Structure
-- [ ] Day 003 - pwd Command
-- [ ] Day 004 - ls Command
+- [x] Day 003 - The pwd Command
+- [ ] Day 004 - The ls Command
+- [ ] Day 005 - The cd Command
