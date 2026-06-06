@@ -8,5 +8,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 002 - Linux Filesystem Structure
 - [x] Day 003 - The pwd Command
 - [x] Day 004 - The ls Command
-- [ ] Day 005 - The cd Command
+- [x] Day 005 - The cd Command
 - [ ] Day 006 - Creating Directories with mkdir
+- [ ] Day 007 - Creating Files with touch
