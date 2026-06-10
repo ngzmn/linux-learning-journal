@@ -11,5 +11,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 005 - The cd Command
 - [x] Day 006 - Creating Directories with mkdir
 - [x] Day 007 - Creating Files with touch
-- [ ] Day 008 - Viewing File Content with cat
+- [x] Day 008 - Viewing File Content with cat
 - [ ] Day 009 - Copying Files with cp
+- [ ] Day 010 - Moving Files with mv
