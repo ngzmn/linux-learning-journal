@@ -13,5 +13,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 007 - Creating Files with touch
 - [x] Day 008 - Viewing File Content with cat
 - [x] Day 009 - Copying Files with cp
-- [ ] Day 010 - Moving Files with mv
+- [x] Day 010 - Moving and Renaming Files with mv
 - [ ] Day 011 - Removing Files with rm
+- [ ] Day 012 - Viewing Files with less
