@@ -15,5 +15,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 009 - Copying Files with cp
 - [x] Day 010 - Moving and Renaming Files with mv
 - [x] Day 011 - Removing Files and Directories with rm
-- [ ] Day 012 - Viewing Files with less
+- [x] Day 012 - Viewing Large Files with less
 - [ ] Day 013 - Searching Files with find
+- [ ] Day 014 - Searching Text with grep
