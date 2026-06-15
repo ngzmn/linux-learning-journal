@@ -16,5 +16,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 010 - Moving and Renaming Files with mv
 - [x] Day 011 - Removing Files and Directories with rm
 - [x] Day 012 - Viewing Large Files with less
-- [ ] Day 013 - Searching Files with find
+- [x] Day 013 - Searching Files and Directories with find
 - [ ] Day 014 - Searching Text with grep
+- [ ] Day 015 - Understanding File Permissions# Linux Learning Journal
