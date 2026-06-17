@@ -18,5 +18,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 012 - Viewing Large Files with less
 - [x] Day 013 - Searching Files and Directories with find
 - [x] Day 014 - Searching Text with grep
-- [ ] Day 015 - Understanding File Permissions
+- [x] Day 015 - Understanding Linux File Permissions
 - [ ] Day 016 - Changing Permissions with chmod
+- [ ] Day 017 - Understanding Ownership (chown)
