@@ -20,5 +20,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 014 - Searching Text with grep
 - [x] Day 015 - Understanding Linux File Permissions
 - [x] Day 016 - Changing Permissions with chmod
-- [ ] Day 017 - Understanding Ownership (chown)
+- [x] Day 017 - Understanding Ownership (chown)
 - [ ] Day 018 - Managing Processes with ps
+- [ ] Day 019 - Monitoring Processes with top
