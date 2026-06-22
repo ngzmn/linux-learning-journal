@@ -23,5 +23,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 017 - Understanding Ownership (chown)
 - [x] Day 018 - Managing Processes with ps
 - [x] Day 019 - Monitoring Processes with top
-- [ ] Day 020 - Terminating Processes with kill
+- [x] Day 020 - Terminating Processes with kill
 - [ ] Day 021 - Network Connections with netstat and ss
+- [ ] Day 022 - Downloading Files with wget
