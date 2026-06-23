@@ -24,5 +24,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 018 - Managing Processes with ps
 - [x] Day 019 - Monitoring Processes with top
 - [x] Day 020 - Terminating Processes with kill
-- [ ] Day 021 - Network Connections with netstat and ss
+- [x] Day 021 - Network Connections with netstat and ss
 - [ ] Day 022 - Downloading Files with wget
+- [ ] Day 023 - Downloading with curl
