@@ -27,5 +27,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 021 - Network Connections with netstat and ss
 - [x] Day 022 - Downloading Files with wget
 - [x] Day 023 - Downloading Files and Working with APIs using curl
-- [ ] Day 024 - Archiving Files with tar
+- [x] Day 024 - Archiving Files with tar
 - [ ] Day 025 - Compressing Files with gzip and zip
+- [ ] Day 026 - Disk Usage with df and du
