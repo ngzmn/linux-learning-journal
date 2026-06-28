@@ -28,5 +28,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 022 - Downloading Files with wget
 - [x] Day 023 - Downloading Files and Working with APIs using curl
 - [x] Day 024 - Archiving Files with tar
-- [ ] Day 025 - Compressing Files with gzip and zip
+- [x] Day 025 - Compressing Files with gzip and zip
 - [ ] Day 026 - Disk Usage with df and du
+- [ ] Day 027 - Finding Filesystem Information with lsblk
