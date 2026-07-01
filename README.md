@@ -30,5 +30,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 024 - Archiving Files with tar
 - [x] Day 025 - Compressing Files with gzip and zip
 - [x] Day 026 - Disk Usage with df and du
-- [ ] Day 027 - Finding Filesystem Information with lsblk
+- [x] Day 027 - Understanding Storage Devices with lsblk
 - [ ] Day 028 - Monitoring Memory with free
+- [ ] Day 029 - Monitoring System Activity with vmstat
