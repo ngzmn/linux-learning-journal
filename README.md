@@ -32,5 +32,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 026 - Disk Usage with df and du
 - [x] Day 027 - Understanding Storage Devices with lsblk
 - [x] Day 028 - Monitoring Memory Usage with free
-- [ ] Day 029 - Monitoring System Activity with vmstat
+- [x] Day 029 - Monitoring System Performance with vmstat
 - [ ] Day 030 - Understanding Linux Environment Variables
+- [ ] Day 031 - Managing Environment Variables with export
