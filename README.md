@@ -31,5 +31,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 025 - Compressing Files with gzip and zip
 - [x] Day 026 - Disk Usage with df and du
 - [x] Day 027 - Understanding Storage Devices with lsblk
-- [ ] Day 028 - Monitoring Memory with free
+- [x] Day 028 - Monitoring Memory Usage with free
 - [ ] Day 029 - Monitoring System Activity with vmstat
+- [ ] Day 030 - Understanding Linux Environment Variables
