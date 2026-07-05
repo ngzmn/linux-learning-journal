@@ -33,5 +33,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 027 - Understanding Storage Devices with lsblk
 - [x] Day 028 - Monitoring Memory Usage with free
 - [x] Day 029 - Monitoring System Performance with vmstat
-- [ ] Day 030 - Understanding Linux Environment Variables
+- [x] Day 030 - Understanding Linux Environment Variables
 - [ ] Day 031 - Managing Environment Variables with export
+- [ ] Day 032 - Shell Configuration Files (.bashrc and .profile)
