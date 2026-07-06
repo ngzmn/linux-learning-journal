@@ -35,5 +35,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 029 - Monitoring System Performance with vmstat
 - [x] Day 030 - Understanding Linux Environment Variables
 - [x] Day 031 - Managing Environment Variables with export
-- [ ] Day 032 - Shell Configuration Files (.bashrc and .profile)
+- [x] Day 032 - Shell Configuration Files (.bashrc and .profile)
 - [ ] Day 033 - Command History and the history Command
+- [ ] Day 034 - Input and Output Redirection
