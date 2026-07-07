@@ -36,5 +36,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 030 - Understanding Linux Environment Variables
 - [x] Day 031 - Managing Environment Variables with export
 - [x] Day 032 - Shell Configuration Files (.bashrc and .profile)
-- [ ] Day 033 - Command History and the history Command
+- [x] Day 033 - Command History and the history Command
 - [ ] Day 034 - Input and Output Redirection
+- [ ] Day 035 - Pipes and the pipe (|) Operator
