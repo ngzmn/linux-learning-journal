@@ -38,5 +38,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 032 - Shell Configuration Files (.bashrc and .profile)
 - [x] Day 033 - Command History and the history Command
 - [x] Day 034 - Input and Output Redirection
-- [ ] Day 035 - Pipes and the Pipe (|)
+- [x] Day 035 - Pipes and the Pipe (|)
 - [ ] Day 036 - Text Processing with sort, uniq, and wc
+- [ ] Day 037 - Text Processing with cut and paste
