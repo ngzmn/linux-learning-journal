@@ -37,5 +37,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 031 - Managing Environment Variables with export
 - [x] Day 032 - Shell Configuration Files (.bashrc and .profile)
 - [x] Day 033 - Command History and the history Command
-- [ ] Day 034 - Input and Output Redirection
-- [ ] Day 035 - Pipes and the pipe (|) Operator
+- [x] Day 034 - Input and Output Redirection
+- [ ] Day 035 - Pipes and the Pipe (|)
+- [ ] Day 036 - Text Processing with sort, uniq, and wc
