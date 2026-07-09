@@ -39,5 +39,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 033 - Command History and the history Command
 - [x] Day 034 - Input and Output Redirection
 - [x] Day 035 - Pipes and the Pipe (|)
-- [ ] Day 036 - Text Processing with sort, uniq, and wc
+- [x] Day 036 - Text Processing with sort, uniq, and wc
 - [ ] Day 037 - Text Processing with cut and paste
+- [ ] Day 038 - Finding Text with grep (Advanced)
