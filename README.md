@@ -40,5 +40,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 034 - Input and Output Redirection
 - [x] Day 035 - Pipes and the Pipe (|)
 - [x] Day 036 - Text Processing with sort, uniq, and wc
-- [ ] Day 037 - Text Processing with cut and paste
-- [ ] Day 038 - Finding Text with grep (Advanced)
+- [x] Day 037 - Text Processing with cut and paste
+- [ ] Day 038 - Advanced Text Search with grep
+- [ ] Day 039 - Stream Editing with sed
