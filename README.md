@@ -41,5 +41,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 035 - Pipes and the Pipe (|)
 - [x] Day 036 - Text Processing with sort, uniq, and wc
 - [x] Day 037 - Text Processing with cut and paste
-- [ ] Day 038 - Advanced Text Search with grep
+- [x] Day 038 - Advanced Text Searching with grep
 - [ ] Day 039 - Stream Editing with sed
+- [ ] Day 040 - Text Processing with awk
