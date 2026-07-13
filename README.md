@@ -43,5 +43,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 037 - Text Processing with cut and paste
 - [x] Day 038 - Advanced Text Searching with grep
 - [x] Day 039 - Stream Editing with sed
-- [ ] Day 040 - Text Processing with awk
-- [ ] Day 041 - File Permissions and chmod (Advanced)
+- [x] Day 040 - Text Processing with awk
+- [ ] Day 041 - Advanced File Permissions with chmod
+- [ ] Day 042 - Ownership with chown and chgrp
