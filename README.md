@@ -45,5 +45,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 039 - Stream Editing with sed
 - [x] Day 040 - Text Processing with awk
 - [x] Day 041 - Advanced File Permissions with chmod
-- [ ] Day 042 - File Ownership with chown and chgrp
+- [x] Day 042 - File Ownership with chown and chgrp
 - [ ] Day 043 - Finding Files with find
+- [ ] Day 044 - Searching Files with locate
