@@ -47,5 +47,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 041 - Advanced File Permissions with chmod
 - [x] Day 042 - File Ownership with chown and chgrp
 - [x] Day 043 - Finding Files with find
-- [ ] Day 044 - Searching Files with locate
+- [x] Day 044 - Searching Files with locate
 - [ ] Day 045 - Disk Usage with du and df
+- [ ] Day 046 - Archiving Files with tar
