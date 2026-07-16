@@ -49,5 +49,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 043 - Finding Files with find
 - [x] Day 044 - Searching Files with locate
 - [x] Day 045 - Disk Usage with du and df
-- [ ] Day 046 - Archiving Files with tar
+- [x] Day 046 - Archiving Files with tar
 - [ ] Day 047 - Compression with gzip, bzip2, and xz
+- [ ] Day 048 - File Transfer with rsync
