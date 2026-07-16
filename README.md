@@ -48,5 +48,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 042 - File Ownership with chown and chgrp
 - [x] Day 043 - Finding Files with find
 - [x] Day 044 - Searching Files with locate
-- [ ] Day 045 - Disk Usage with du and df
+- [x] Day 045 - Disk Usage with du and df
 - [ ] Day 046 - Archiving Files with tar
+- [ ] Day 047 - Compression with gzip, bzip2, and xz
