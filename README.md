@@ -55,5 +55,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 049 - Downloading Files with wget and curl
 - [x] Day 050 - Networking Basics with ping, ip, and ss
 - [x] Day 051 - Secure Remote Access with SSH
-- [ ] Day 052 - Secure File Transfer with SCP and SFTP
+- [x] Day 052 - Secure File Transfer with SCP and SFTP
 - [ ] Day 053 - Process Management with ps, top, and htop
+- [ ] Day 054 - Managing Services with systemctl
