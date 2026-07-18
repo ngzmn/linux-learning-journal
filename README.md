@@ -52,5 +52,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 046 - Archiving Files with tar
 - [x] Day 047 - Compression with gzip, bzip2, and xz
 - [x] Day 048 - File Transfer with rsync
-- [ ] Day 049 - Downloading Files with wget and curl
+- [x] Day 049 - Downloading Files with wget and curl
 - [ ] Day 050 - Networking Basics with ping, ip, and ss
+- [ ] Day 051 - SSH: Secure Remote Access
