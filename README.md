@@ -53,5 +53,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 047 - Compression with gzip, bzip2, and xz
 - [x] Day 048 - File Transfer with rsync
 - [x] Day 049 - Downloading Files with wget and curl
-- [ ] Day 050 - Networking Basics with ping, ip, and ss
-- [ ] Day 051 - SSH: Secure Remote Access
+- [x] Day 050 - Networking Basics with ping, ip, and ss
+- [ ] Day 051 - Secure Remote Access with SSH
+- [ ] Day 052 - Secure File Transfer with SCP and SFTP
