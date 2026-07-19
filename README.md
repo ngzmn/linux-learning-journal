@@ -57,5 +57,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 051 - Secure Remote Access with SSH
 - [x] Day 052 - Secure File Transfer with SCP and SFTP
 - [x] Day 053 - Process Management with ps, top, and htop
-- [ ] Day 054 - Managing Services with systemctl
+- [x] Day 054 - Managing Services with systemctl
 - [ ] Day 055 - Scheduling Tasks with cron and at
+- [ ] Day 056 - Log Management with journalctl
