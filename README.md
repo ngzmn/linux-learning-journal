@@ -56,5 +56,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 050 - Networking Basics with ping, ip, and ss
 - [x] Day 051 - Secure Remote Access with SSH
 - [x] Day 052 - Secure File Transfer with SCP and SFTP
-- [ ] Day 053 - Process Management with ps, top, and htop
+- [x] Day 053 - Process Management with ps, top, and htop
 - [ ] Day 054 - Managing Services with systemctl
+- [ ] Day 055 - Scheduling Tasks with cron and at
