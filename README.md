@@ -59,5 +59,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 053 - Process Management with ps, top, and htop
 - [x] Day 054 - Managing Services with systemctl
 - [x] Day 055 - Scheduling Tasks with cron and at
-- [ ] Day 056 - Log Management with journalctl
+- [x] Day 056 - Log Management with journalctl
 - [ ] Day 057 - Understanding Linux Permissions in Depth
+- [ ] Day 058 - Finding Files with find
