@@ -58,5 +58,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 052 - Secure File Transfer with SCP and SFTP
 - [x] Day 053 - Process Management with ps, top, and htop
 - [x] Day 054 - Managing Services with systemctl
-- [ ] Day 055 - Scheduling Tasks with cron and at
+- [x] Day 055 - Scheduling Tasks with cron and at
 - [ ] Day 056 - Log Management with journalctl
+- [ ] Day 057 - Understanding Linux Permissions in Depth
