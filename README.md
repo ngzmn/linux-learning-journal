@@ -60,5 +60,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 054 - Managing Services with systemctl
 - [x] Day 055 - Scheduling Tasks with cron and at
 - [x] Day 056 - Log Management with journalctl
-- [ ] Day 057 - Understanding Linux Permissions in Depth
+- [x] Day 057 - Linux Permissions in Depth
 - [ ] Day 058 - Finding Files with find
+- [ ] Day 059 - Text Processing with grep, sed, and awk
