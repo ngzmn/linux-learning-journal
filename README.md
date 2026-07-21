@@ -61,5 +61,6 @@ My personal Linux learning journal with practical notes, commands, and examples.
 - [x] Day 055 - Scheduling Tasks with cron and at
 - [x] Day 056 - Log Management with journalctl
 - [x] Day 057 - Linux Permissions in Depth
-- [ ] Day 058 - Finding Files with find
+- [x] Day 058 - Advanced File Searching with find
 - [ ] Day 059 - Text Processing with grep, sed, and awk
+- [ ] Day 060 - Shell Scripting Fundamentals
